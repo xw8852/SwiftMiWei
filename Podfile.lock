@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.6.0)
+  - HandyJSON (4.0.0-beta.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (~> 4.0.0-beta.1)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  HandyJSON: 428bb18e2c34c2a77361accebf90cf64e4f74118
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 6d3b879c5e9881160493438b3600c3d9375013f7
+
+COCOAPODS: 1.4.0

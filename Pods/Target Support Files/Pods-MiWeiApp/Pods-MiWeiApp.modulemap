@@ -1,0 +1,6 @@
+framework module Pods_MiWeiApp {
+  umbrella header "Pods-MiWeiApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
